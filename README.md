@@ -23,7 +23,8 @@ The following REQUIRED features are completed:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://github.com/Dipin-D/Codepath_week4/assets/102004858/cb5ab789-8363-4972-b9f2-2d9ef4f9c385](https://im5.ezgif.com/tmp/ezgif-5-275408f47d.gif' />
+<img src='https://github.com/Dipin-D/Codepath_week4/assets/102004858/fb362f44-b4d3-47b7-b6ef-e6d894f4b3cb' />
+
 
 
 ## Notes
