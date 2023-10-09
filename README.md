@@ -23,7 +23,7 @@ The following REQUIRED features are completed:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://github.com/Dipin-D/Codepath_week4/assets/102004858/cb5ab789-8363-4972-b9f2-2d9ef4f9c385' />
 
 
 ## Notes
